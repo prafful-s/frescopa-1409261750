@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/elizabeths/aem-mcp/language-masters/en:/",
+    "/content/elizabeths/aem-mcp/language-masters/en/:/en/",
+    "/content/elizabeths/aem-mcp/configuration:/.helix/config.json",
+    "/content/elizabeths/aem-mcp/metadata:/metadata.json",
+    "/content/elizabeths/aem-mcp/redirects:/redirects.json",
+    "/content/elizabeths/aem-mcp/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/elizabeths/aem-mcp/",
+    "/content/dam/elizabeths/aem-mcp/"
   ]
 }
